@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "CustomFont";
+  src: url("./genericons-regular-webfont.woff") format("woff"),
+    url("./mem8YaGs126MiZpBA-UFVZ0b.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: greenyellow;
+  font-family: "CustomFont";
+  background: url("./bg.jpg");
+}
