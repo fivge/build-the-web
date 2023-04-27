@@ -1,8 +1,8 @@
 # Build the Web
 
-https://github.com/unjs/unplugin
+## build tools
 
-## esbuild
+### esbuild
 
 https://esbuild.github.io/
 
@@ -16,22 +16,36 @@ https://esbuild.github.io/
 
 https://github.com/a7ul/esbuild-node-tsc/blob/main/src/index.ts
 
-## rollup
+### rollup
 
-## gulp
+### gulp
 
-## parcel
+https://gulpjs.com/
+
+> plugins
+
+- https://gulpjs.com/plugins/
+- gulp-token-replace
+
+### parcel
 
 https://parceljs.org/
 
-## rspack
+### rspack
 
 https://www.rspack.dev/zh/index.html
 
-## turbo
+### turbo
 
 https://github.com/vercel/turbo
 
-## SWC
+### SWC
 
 https://github.com/swc-project/swc
+
+## useful tools
+
+- `node:fs`
+- `node:path`
+- https://www.npmjs.com/package/del
+- https://github.com/unjs/unplugin
