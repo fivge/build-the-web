@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "build1": "esbuild ../@source/node/app.jsx --bundle --outfile=out.js",
+    "build": "node build.mjs"
+  },
   "devDependencies": {
     "esbuild": "^0.17.18"
   }
