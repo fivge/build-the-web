@@ -31,3 +31,7 @@ https://www.rspack.dev/zh/index.html
 ## turbo
 
 https://github.com/vercel/turbo
+
+## SWC
+
+https://github.com/swc-project/swc
