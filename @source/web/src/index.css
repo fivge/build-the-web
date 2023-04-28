@@ -9,5 +9,5 @@
 .hello {
   color: greenyellow;
   font-family: "CustomFont";
-  background: url("./bg.jpg");
+  /* background: url("./bg.jpg"); */
 }
