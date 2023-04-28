@@ -3,11 +3,9 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "clean": "rm -rf dist",
-    "prebuild:es": "yarn clean && mkdir dist && cp src/index.es.html dist/",
-    "build:es": "yarn prebuild:es && rollup src/main.js src/main2.js -f es -d dist",
-    "build:system": "yarn clean && rollup src/main.js src/main2.js -f system -d dist",
-    "build:node": "yarn clean && rollup -c rollup.config.js"
+    "build:es": "rollup src/main.js src/main2.js -f es -d dist",
+    "build:system": "rollup src/main.js src/main2.js -f system -d dist",
+    "build:node": "rollup -c rollup.config.js"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^11.0.2",
