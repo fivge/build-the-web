@@ -30,6 +30,12 @@ https://github.com/sindresorhus/del
 
 https://github.com/yargs/yargs
 
+##### env-cmd
+
+> Setting environment variables from a file
+
+https://github.com/toddbluhm/env-cmd
+
 ##### uuid
 
 > Generate RFC-compliant UUIDs in JavaScript
