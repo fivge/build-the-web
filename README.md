@@ -47,5 +47,6 @@ https://github.com/swc-project/swc
 
 - `node:fs`
 - `node:path`
+- `node:child_process`
 - https://www.npmjs.com/package/del
 - https://github.com/unjs/unplugin
