@@ -1,28 +1,36 @@
-### rimraf
+## api
+
+### global
+
+##### `__dirname` `__filename`
+
+## npm
+
+##### rimraf
 
 > A `rm -rf` util for nodejs
 
 <https://github.com/isaacs/rimraf>
 
-### mkdirp
+##### mkdirp
 
 > Recursively mkdir, like `mkdir -p`, but in node.js
 
 <https://github.com/substack/node-mkdirp>
 
-### del
+##### del
 
 > Delete files and directories
 
 https://github.com/sindresorhus/del
 
-### yargs
+##### yargs
 
 > parsing arguments and generating an elegant user interface
 
 https://github.com/yargs/yargs
 
-### uuid
+##### uuid
 
 > Generate RFC-compliant UUIDs in JavaScript
 
@@ -32,7 +40,7 @@ https://github.com/uuidjs/uuid
 
 https://github.com/niieani/hashids.js
 
-### tree
+##### tree
 
 > similar to the Linux tree command
 
