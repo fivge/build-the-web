@@ -18,6 +18,12 @@ https://github.com/a7ul/esbuild-node-tsc/blob/main/src/index.ts
 
 ### rollup
 
+https://rollupjs.org/
+
+### webpack
+
+https://webpack.js.org/
+
 ### gulp
 
 https://gulpjs.com/
