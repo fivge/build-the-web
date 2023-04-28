@@ -1,21 +1,19 @@
 import gulp from "gulp";
 const { series, parallel, src, dest, task } = gulp;
 
+// callback
 const clean = (cb) => {
   console.log("clean");
   cb();
-  return;
 };
 
-// callback
-const build = (cb) => {
+const build = () => {
   console.log("build");
-  cb();
-  return;
+  return src("../@source/node/app.jsx").pipe(dest("dist"));
 };
 
-// task(clean)
-task("clean", clean);
-task("build", build);
+task("clean1", clean);
+task(clean)
+task(build);
 
 task("default", series("clean", "build"));

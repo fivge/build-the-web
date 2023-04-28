@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gulp",
-    "clean": "gulp clean"
+    "clean": "gulp clean1"
   },
   "devDependencies": {
     "gulp": "^4.0.2"
