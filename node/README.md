@@ -51,3 +51,15 @@ https://github.com/niieani/hashids.js
 > similar to the Linux tree command
 
 https://github.com/yangshun/tree-node-cli
+
+##### archiver
+
+> a streaming interface for archive generation
+
+https://github.com/archiverjs/node-archiver
+
+##### extract-zip
+
+> Extracts a zip into a directory.
+
+https://www.npmjs.com/package/extract-zip
